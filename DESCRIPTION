@@ -1,0 +1,16 @@
+Package: CoupledPIMH
+Type: Package
+Title: Coupled PIMH for unbiased SMC 
+Version: 1.0
+Date: 2014-11-05
+Author: Lawrence Middleton
+Maintainer: Lawrence Middleton <lawrence.middleton@stats.ox.ac.uk>
+Description: 
+    Methods to smooth using coupled PIMH.
+License: GPL (>= 2)
+Depends:
+    Rcpp,RcppEigen,BH,doMC,foreach,dplyr,reshape2,ggplot2,matrixStats,doRNG,coda,latex2exp
+Imports:
+    Rcpp (>= 0.11.6),RcppEigen,BH
+LinkingTo: Rcpp,RcppEigen,BH
+RoxygenNote: 6.1.1

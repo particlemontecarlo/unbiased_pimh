@@ -1,0 +1,14 @@
+
+running 'sv_get_estimators.R' should do the job of getting estimators and shrinking them
+down to something reasonable
+
+-> then need to run sv_plot_inefficiencies.R
+
+
+sv_plot_inefficiencies.R is made of some code taken from sv_plot_results.R
+sv_plot_results.R has the plotting code for both experiments - so the k=K=0 also
+
+
+
+
+
