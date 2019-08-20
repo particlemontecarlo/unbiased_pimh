@@ -10,4 +10,3 @@ It is recommended to begin by running
 'inst/reproduce/stochastic_kinetic/stochastic_kinetic_plot_state.R'
 
 to gain unbiased estimates of smoothing distributions for the Markov jump process. 
-# unbiased_pimh
